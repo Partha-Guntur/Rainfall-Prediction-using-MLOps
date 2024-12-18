@@ -84,4 +84,4 @@ project-root/
 - Inspired by advancements in MLOps and machine learning deployment techniques.
 
 ## Contact
-For any questions or feedback, please reach out to @Partha-Guntur.
+For any questions or feedback, please reach out to parthagunturu2003@gmail.com.
