@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/493903679373300216
+creation_time: 1734579463763
+experiment_id: '493903679373300216'
+last_update_time: 1734579463763
+lifecycle_stage: active
+name: rainfall-pred
