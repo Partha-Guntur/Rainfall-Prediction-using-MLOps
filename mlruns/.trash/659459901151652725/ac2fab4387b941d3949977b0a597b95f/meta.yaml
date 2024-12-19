@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/partha/Desktop/Rainfall-MLOps/mlruns/659459901151652725/ac2fab4387b941d3949977b0a597b95f/artifacts
+deleted_time: 1734588407410
 end_time: 1734585521142
 entry_point_name: ''
 experiment_id: '659459901151652725'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ac2fab4387b941d3949977b0a597b95f
 run_name: big-sloth-191
 run_uuid: ac2fab4387b941d3949977b0a597b95f

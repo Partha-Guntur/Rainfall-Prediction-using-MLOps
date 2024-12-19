@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/partha/Desktop/Rainfall-MLOps/mlruns/659459901151652725/af589e6c19924648a9f9aa6ec4c8fc6c/artifacts
+deleted_time: 1734588407410
 end_time: 1734585555002
 entry_point_name: ''
 experiment_id: '659459901151652725'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: af589e6c19924648a9f9aa6ec4c8fc6c
 run_name: auspicious-cub-806
 run_uuid: af589e6c19924648a9f9aa6ec4c8fc6c

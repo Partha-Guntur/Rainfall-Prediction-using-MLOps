@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/partha/Desktop/Rainfall-MLOps/mlruns/659459901151652725/19a1fa2c91b54084b36542c1b89ac8de/artifacts
+deleted_time: 1734588407410
 end_time: 1734588213743
 entry_point_name: ''
 experiment_id: '659459901151652725'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 19a1fa2c91b54084b36542c1b89ac8de
 run_name: hilarious-croc-300
 run_uuid: 19a1fa2c91b54084b36542c1b89ac8de

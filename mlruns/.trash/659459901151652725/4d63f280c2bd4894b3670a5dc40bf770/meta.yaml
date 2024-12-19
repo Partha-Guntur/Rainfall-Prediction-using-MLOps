@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/partha/Desktop/Rainfall-MLOps/mlruns/659459901151652725/4d63f280c2bd4894b3670a5dc40bf770/artifacts
+deleted_time: 1734588407410
 end_time: null
 entry_point_name: ''
 experiment_id: '659459901151652725'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4d63f280c2bd4894b3670a5dc40bf770
 run_name: placid-crow-734
 run_uuid: 4d63f280c2bd4894b3670a5dc40bf770
