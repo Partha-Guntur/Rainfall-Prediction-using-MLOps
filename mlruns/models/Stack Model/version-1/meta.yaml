@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1734589016896
+current_stage: None
+description: ''
+last_updated_timestamp: 1734589016896
+name: Stack Model
+run_id: 8633285176f941a49b8fe98190322c57
+run_link: ''
+source: mlflow-artifacts:/493903679373300216/8633285176f941a49b8fe98190322c57/artifacts/Stack
+  Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/493903679373300216/8633285176f941a49b8fe98190322c57/artifacts/Stack
+  Model
+user_id: null
+version: 1
