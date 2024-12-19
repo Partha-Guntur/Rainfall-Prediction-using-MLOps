@@ -71,7 +71,17 @@ project-root/
 ├── Dockerfile         # Docker configuration
 ├── mlops/             # MLOps pipeline configurations
 └── templates/         # HTML files for the Flask app
+
 ```
+# requirements.txt
+mlflow==2.19.0
+cloudpickle==3.0.0
+jaraco-text==3.12.1
+numpy==1.24.2
+ordered-set==4.1.0
+psutil==5.9.4
+scikit-learn==1.2.2
+scipy==1.10.1
 
 ## MLOps Workflow
 1. **Continuous Integration**: Ensures all changes to the code are tested and validated.
