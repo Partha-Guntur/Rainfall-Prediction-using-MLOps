@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/partha/Desktop/Rainfall-MLOps/mlruns/659459901151652725/ee561ec1e9cf4b81a482957843c4d316/artifacts
+end_time: 1734588215963
+entry_point_name: ''
+experiment_id: '659459901151652725'
+lifecycle_stage: active
+run_id: ee561ec1e9cf4b81a482957843c4d316
+run_name: clean-mink-738
+run_uuid: ee561ec1e9cf4b81a482957843c4d316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588215847
+status: 3
+tags: []
+user_id: partha

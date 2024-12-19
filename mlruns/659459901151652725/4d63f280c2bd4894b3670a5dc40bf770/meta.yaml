@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/partha/Desktop/Rainfall-MLOps/mlruns/659459901151652725/4d63f280c2bd4894b3670a5dc40bf770/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '659459901151652725'
+lifecycle_stage: active
+run_id: 4d63f280c2bd4894b3670a5dc40bf770
+run_name: placid-crow-734
+run_uuid: 4d63f280c2bd4894b3670a5dc40bf770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588216006
+status: 1
+tags: []
+user_id: partha
