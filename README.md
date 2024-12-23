@@ -23,7 +23,6 @@ This project leverages advanced machine learning techniques for predicting rainf
 - **MLOps Tools**: Docker, MLflow
 - **Web Framework**: Flask
 - **Frontend Technologies**: HTML, CSS, JavaScript
-- **Cloud Platforms**: AWS/GCP/Azure (optional based on deployment)
 
 ## Installation
 ### Prerequisites
@@ -71,7 +70,6 @@ project-root/
 ├── Dockerfile         # Docker configuration
 ├── mlops/             # MLOps pipeline configurations
 └── templates/         # HTML files for the Flask app
-
 ```
 # requirements.txt
 - mlflow==2.19.0
