@@ -61,6 +61,7 @@ This project leverages advanced machine learning techniques for predicting rainf
 3. Click on the **Predict** button to get the rainfall prediction.
 
 ## File Structure
+
 ```
 project-root/
 ├── data/              # Contains datasets
