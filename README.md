@@ -51,7 +51,7 @@ This project leverages advanced machine learning techniques for predicting rainf
    ```
 5. (Optional) Build and run the Docker container:
    ```bash
-   docker build -t rainfall-prediction .
+   docker build -t rainfall-prediction
    docker run -p 5000:5000 rainfall-prediction
    ```
 
